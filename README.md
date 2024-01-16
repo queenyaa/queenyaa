@@ -3,7 +3,7 @@
 [![MasterHead](https://i.pinimg.com/564x/87/ed/fc/87edfc0adb548aa2886e66d6eaa0eccb.jpg)](https://www.ysgyan.tech)
 <h1 align="center">Hi 👋, I'm Yaa Serwaa Gyan</h1>
 <h3 align="center">Just because I must create a geological website and app to make learning the industry easier.</h3>
-(img align="right" alt="Coding" width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif")
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=queenyaa&label=Profile%20views&color=0e75b6&style=flat" alt="queenyaa" /> </p>
 
